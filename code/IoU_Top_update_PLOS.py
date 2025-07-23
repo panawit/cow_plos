@@ -14,7 +14,7 @@ iou_list=[]
 
 # Load the top models
 front_act_model = YOLO("D:\\Project\\YoloV8\\cow\\Cow_act_top_yolov8m_TOP.pt")
-front_iden_model = YOLO("D:\\Project\\YoloV8\\cow\\Cow_top.pt")
+front_iden_model = YOLO("D:\\Project\\YoloV8\\cow\\Cow_top_name.pt")
 
 iou_threshold_duplicate = 0.8
 iou_threshold_mapping = 0.5
