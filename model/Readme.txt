@@ -4,5 +4,6 @@ This folder contains the model for running the Iou_Front_update.py and IoU_Top_u
 3) Cow_act_front_new_best.pt -> front camera cow behavior detection model
 4) Cow_act_top_yolov8m_TOP.pt -> top camera cow behavior detection model
 
-Due to the size limit of github, the behavior models are uploaded in this Google drive link
+Due to the size limit of github, the behavior models (Cow_act_front_new_best.pt and Cow_act_top_yolov8m_TOP.pt) are uploaded in this Google drive link
+https://drive.google.com/drive/folders/1pD131rsumeNAF-w-kCp6sZqLjTsnOh4k?usp=sharing
 
