@@ -21,3 +21,8 @@ This folder contains the code as follows:
    - Output results:
       - F1-score 
       - Confusion matrix
+4) train_model.py -> code to train the YOLOv8 model
+    - Input: 
+      - data.yaml: setting file for training the model
+    - Output:  
+      - model
