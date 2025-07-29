@@ -23,6 +23,6 @@ This folder contains the code as follows:
       - Confusion matrix
 4) train_model.py -> code to train the YOLOv8 model
     - Input: 
-      - data.yaml: setting file for training the model
+      - data.yaml: setting file for training the model, which links to the dataset
     - Output:  
       - model
