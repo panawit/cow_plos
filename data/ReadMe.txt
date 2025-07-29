@@ -9,5 +9,5 @@ This folder contains the data relevant to the program as follows:
 8) A04_20240517035610.mp4, A04_20240517131349.mp4,  -> video of front camera for testing the model
 9) A03_20240517074312.mp4, A03_20240517000906.mp4, A03_20240517185637.mp4 -> video of top camera for testing the model
 
-Due to size limit of Github, dataset 5)-8) can be retrieved from this directory
+Due to size limit of Github, dataset 5)-9) can be retrieved from this directory
 https://drive.google.com/drive/folders/1VvruYwSxbmAfp7cHAehJ5_zYTIsvHBEy
